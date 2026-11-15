@@ -1,5 +1,4 @@
 # Self_portfolio
-# 你好，我是梁毓翔
 华南理工大学软件工程本科在读，专注 Cocos Creator、Unreal Engine 与 AI 辅助研发。
 **Vibe Coding · Game / Tool Development**
 ---
