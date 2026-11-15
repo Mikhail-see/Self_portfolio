@@ -29,6 +29,3 @@ UE5.8 第一人称互动原型，实现遗物收集、交互组件、原生 UMG 
 `Unreal Engine` `C++` `UMG`
 
 ---
-## 联系方式
-- 作品集：https://mikhai.online
-- Email：17756139867@163.com
